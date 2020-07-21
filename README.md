@@ -6,4 +6,7 @@
 
 ## Useful Resources
 
-Coming soon...
+For getting started with LOVE: https://love2d.org/wiki/Category:Tutorials
+
+For getting started with boids: https://en.wikipedia.org/wiki/Boids
+
