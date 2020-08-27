@@ -6,51 +6,37 @@
         "activityBar.foreground": "#e64d99",
         "activityBar.inactiveForeground": "#d5d5d5",
 
-        "activityBarBadge.background": "#0195cf",
+        "activityBarBadge.background": "#0098dd",
         "activityBarBadge.foreground": "#ffffff",
 
-        "statusBar.background": "#0195cf",
+        "statusBar.background": "#0098dd",
         "statusBar.foreground": "#ffffff",
         "statusBarItem.hoverBackground": "#e64d99",
-
-        "titleBar.activeBackground": "#d5d5d5",
-        "titleBar.activeForeground": "#15202b99",
-        "titleBar.inactiveBackground": "#d5d5d5",
-        "titleBar.inactiveForeground": "#15202b99",
 
         "menu.background": "#d6d6d6",
         "menu.foreground": "#000000",
         "menu.selectionBackground": "#e64d99",
 
-        "notifications.background": "#0195cf",
+        "notifications.background": "#0098dd",
         "notifications.foreground": "#ffffff",
-        "notifications.border": "#0195cf",
-        "notificationToast.border": "#0195cf",
+        "notifications.border": "#0098dd",
+        "notificationToast.border": "#0098dd",
         "notificationsErrorIcon.foreground": "#15202b",
         "notificationsInfoIcon.foreground": "#15202b",
         "notificationsWarningIcon.foreground": "#15202b",
-
-        "editor.background": "#15202b",
-
-        "sideBar.background": "#e2e1e1",
-        "sideBar.foreground": "#000000",
-        "sideBarTitle.foreground": "#1c2d44",
-        "sideBarSectionHeader.foreground": "#1c2d44",
         
         "list.activeSelectionBackground": "#e64d99",
         "list.inactiveSelectionBackground": "#d4d3d3",
         "list.activeSelectionForeground": "#ffffff",
         "list.inactiveSelectionForeground": "#000000",
         "list.focusForeground": "#ffffff",
-        "list.hoverBackground": "#e64d9a2a",
-        "list.hoverForeground": "#000000",
 
-        // red for files that contain errors
+        // deep red for files that contain errors
         "list.errorForeground": "#cf0101",
 
         // info colour for modified/untracked files
-        "list.warningForeground": "#0195cf",
-        "gitDecoration.modifiedResourceForeground": "#0195cf",
-        "gitDecoration.untrackedResourceForeground": "#0195cf"
+        "list.warningForeground": "#0098dd",
+        "gitDecoration.modifiedResourceForeground": "#0098dd",
+        "gitDecoration.untrackedResourceForeground": "#0098dd",
     }
 }
