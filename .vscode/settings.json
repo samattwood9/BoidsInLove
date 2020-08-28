@@ -1,36 +1,24 @@
 {
     "workbench.colorCustomizations": {
-        
-        "activityBar.activeBorder": "#ce33c0",
-        "activityBar.foreground": "#ce33c0",
 
-        "activityBarBadge.background": "#0098dd",
+        "activityBar.activeBorder": "#0098dd",
+        "activityBar.foreground": "#0098dd",
+
+        "badge.background": "#ce33c0",
+        "badge.foreground": "#ffffff",
+
+        "activityBarBadge.background": "#ce33c0",
         "activityBarBadge.foreground": "#ffffff",
 
-        "statusBar.background": "#0098dd",
-        "statusBar.foreground": "#ffffff",
-        "statusBarItem.hoverBackground": "#ce33c0",
+        "statusBar.border": "#ce33c0",
 
-        "titleBar.activeBackground": "#1c2d44",
-        "titleBar.activeForeground": "#ffffff",
-
-        "menu.background": "#d6d6d6",
-        "menu.foreground": "#000000",
-        "menu.selectionBackground": "#ce33c0",
-
-        "notifications.background": "#0098dd",
+        "notifications.background": "#ce33c0",
         "notifications.foreground": "#ffffff",
-        "notifications.border": "#0098dd",
-        "notificationToast.border": "#0098dd",
-        "notificationsErrorIcon.foreground": "#15202b",
-        "notificationsInfoIcon.foreground": "#15202b",
-        "notificationsWarningIcon.foreground": "#15202b",
-        
-        "list.activeSelectionBackground": "#ce33c0",
-        "list.inactiveSelectionBackground": "#d4d3d3",
-        "list.activeSelectionForeground": "#ffffff",
-        "list.inactiveSelectionForeground": "#000000",
-        "list.focusForeground": "#ffffff",
+        "notifications.border": "#ce33c0",
+        "notificationToast.border": "#ce33c0",
+        "notificationsErrorIcon.foreground": "#ffffff",
+        "notificationsInfoIcon.foreground": "#ffffff",
+        "notificationsWarningIcon.foreground": "#ffffff",
 
         // deep red for files that contain errors
         "list.errorForeground": "#d52753",
