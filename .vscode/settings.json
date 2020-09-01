@@ -1,28 +1,43 @@
 {
     "workbench.colorCustomizations": {
 
-        "badge.background": "#ce33c0",
+        //"activityBar.foreground": "#ce33c0",
+        "activityBar.activeBorder": "#ce33c0",
+
+        "badge.background": "#ce33c0", 
         "badge.foreground": "#ffffff",
 
         "activityBarBadge.background": "#ce33c0",
-        "activityBarBadge.foreground": "#ffffff",
+        "activityBarBadge.foreground": "#ffffff", 
 
         "statusBar.border": "#ce33c0",
 
         "notifications.background": "#ce33c0",
         "notifications.foreground": "#ffffff",
-        "notifications.border": "#ce33c0",
+        "notifications.border": "#ce33c0", 
         "notificationToast.border": "#ce33c0",
         "notificationsErrorIcon.foreground": "#ffffff",
         "notificationsInfoIcon.foreground": "#ffffff",
         "notificationsWarningIcon.foreground": "#ffffff",
 
+        "tab.activeBorderTop": "#ce33c0",
+
+        "menu.selectionBackground": "#ce33c0",
+
+        "focusBorder": "#ce33c0",
+
+        "button.background": "#ce33c0",
+
+        "textLink.foreground": "#ce33c0",
+
+        "list.activeSelectionBackground": "#ce33c0",
+
         // deep red for files that contain errors
         "list.errorForeground": "#d52753",
 
         // info colour for modified/untracked files
-        "list.warningForeground": "#0098dd",
-        "gitDecoration.modifiedResourceForeground": "#0098dd",
-        "gitDecoration.untrackedResourceForeground": "#0098dd",
+        "list.warningForeground": "#0091d4",
+        "gitDecoration.modifiedResourceForeground": "#0091d4",
+        "gitDecoration.untrackedResourceForeground": "#0091d4",
     }
 }
