@@ -14,5 +14,5 @@
 
 4) Download the [indie flower](https://fonts.google.com/specimen/Indie+Flower?preview.text=&preview.text_type=custom&query=indie+flow#standard-styles) font and put the *IndieFlower.tff* file in the *src* folder.
 
-5) Press *alt + L* in Visual Studio Code to run the simulation.
+5) Press *Alt + L* in Visual Studio Code to run the simulation.
 
