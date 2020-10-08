@@ -17,11 +17,6 @@ return function()
         clouds:setEmissionArea('borderrectangle', width/2 + ((width/2) * 0.1), height/2 + ((height/2) * 0.1), 0, true)
     end
 
-    clouds.resetEmissionArea = function()
-        local width, height = love.window.getMode()
-        clouds:setEmissionArea('borderrectangle', width/2 + ((width/2) * 0.1), height/2 + ((height/2) * 0.1), 0, true)
-    end    
-    
     clouds.update = function(dt)
         clouds:update(dt)
     end
@@ -31,6 +26,11 @@ return function()
         local width, height = love.window.getMode()
         love.graphics.draw(clouds, width * 0.5, height * 0.5)
     end
+
+    clouds.resetEmissionArea = function()
+        local width, height = love.window.getMode()
+        clouds:setEmissionArea('borderrectangle', width/2 + ((width/2) * 0.1), height/2 + ((height/2) * 0.1), 0, true)
+    end  
 
     return clouds
 
