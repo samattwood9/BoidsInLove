@@ -4,9 +4,15 @@
 
 ![Boids In Love Gif](boidsInLove.gif)
 
-## Useful Resources
+## Getting Started
 
-For getting started with LOVE: https://love2d.org/wiki/Category:Tutorials
+1) Install [Visual Studio Code](https://code.visualstudio.com/) and [LOVE](https://love2d.org/).
 
-For getting started with boids: https://en.wikipedia.org/wiki/Boids
+2) Fork or download this repostiory.
+
+3) Use Visual Studio Code to open up the repostiory and take a look at the code.
+
+4) Download the [indie flower](https://fonts.google.com/specimen/Indie+Flower?preview.text=&preview.text_type=custom&query=indie+flow#standard-styles) font and put the *IndieFlower.tff* file in the *src* folder.
+
+5) Press *alt + L* in Visual Studio Code to run the simulation.
 
